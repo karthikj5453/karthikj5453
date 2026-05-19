@@ -106,7 +106,7 @@ A full-stack platform that turns raw citizen complaints + policy docs into actio
 
 **Tech:** `React` `TypeScript` `Node.js` `PostgreSQL` `Gemini AI`
 
----
+--
 
 ## 📜 Certifications
 
