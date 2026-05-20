@@ -40,7 +40,7 @@ class KarthikJadhav:
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 
 <div align="center">
 
@@ -71,9 +71,9 @@ class KarthikJadhav:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔍 RAG Research Assistant — Production-Grade AI Retrieval
+###  RAG Research Assistant — Production-Grade AI Retrieval
 > *The thing I'm most proud of.*
 
 A multi-stage Retrieval-Augmented Generation system that goes way beyond naive vector search.
@@ -94,7 +94,7 @@ Query → Expansion (LLM) → Dense Search (ChromaDB) + Sparse Search (BM25)
 
 ---
 
-### 🏛️ AI Governance Co-Pilot — Civic Intelligence Platform
+###  AI Governance Co-Pilot — Civic Intelligence Platform
 > *AI that helps governments actually listen to citizens.*
 
 A full-stack platform that turns raw citizen complaints + policy docs into actionable governance insights.
@@ -108,7 +108,7 @@ A full-stack platform that turns raw citizen complaints + policy docs into actio
 
 --
 
-## 📜 Certifications
+##  Certifications
 
 <div align="center">
 
@@ -132,7 +132,7 @@ A full-stack platform that turns raw citizen complaints + policy docs into actio
 
 ---
 
-## 🧩 Concepts I Think About
+##  Concepts I Think About
 
 ```
 Information Retrieval   ████████████████████  Vector Search
